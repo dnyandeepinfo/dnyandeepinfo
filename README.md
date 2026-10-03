@@ -1,72 +1,121 @@
 <div align="center">
 
-# 🔷 Dnyandeep Infotech
+# ✦ DNYANDEEP INFOTECH PVT. LTD.
 
-### We Build Ideas for a Better Web
+### Digital Experiences. Thoughtful Engineering. Better Business.
 
-**Web Development • Modern Design • Custom Web Applications**
+**Websites · Web Applications · UI/UX · E-Commerce · Custom Software**
 
-[![Website](https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dnyandeep.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github)](https://github.com/dnyandeepinfo)
+[![Website](https://img.shields.io/badge/Explore-Our_Website-1769aa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dnyandeep.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Our_Projects-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dnyandeepinfo)
 
 </div>
 
 ---
 
-## 👋 About Us
+<div align="center">
 
-Dnyandeep Infotech is a web development company with over a decade of experience building web applications. Our dedicated developers have delivered projects across a variety of industries and business domains, including **e-Commerce, e-Learning, Analytics, Finance, Entertainment**, and more.
+**Turning ideas into reliable, modern digital solutions.**
 
-We combine thoughtful design with dependable development to create websites and applications that are attractive, flexible, and easy to maintain.
+With over a decade of experience, Dnyandeep Infotech Pvt. Ltd. builds web applications and digital experiences for organisations across industries—from e-Commerce and e-Learning to analytics, finance, and entertainment.
 
-## 🎨 Modern Design
+</div>
 
-A website is often an organisation’s first point of contact in the digital world. We create engaging, consistent user experiences through:
+## 🚀 What We Do
 
-- **HTML** for clear, accessible page structure
-- **CSS** for attractive layouts, typography, and visual consistency
-- **JavaScript** for interactive features and animations
-- Responsive layouts that adapt to different screen sizes
-- Carefully considered navigation, colors, and content presentation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 💻 Web Development
+### 🎨 Modern Front-End Experiences
+Responsive, intuitive interfaces that look polished and work smoothly across devices.
 
-Our development approach supports websites that need more than a few static pages. We build flexible solutions with maintainability and future updates in mind.
+- Angular and React applications
+- Bootstrap-based responsive layouts
+- HTML, CSS, and JavaScript
+- User-focused design and interactive experiences
 
-- **PHP** for dynamic, server-side web applications
-- **MySQL** for database-driven websites and applications
-- Reusable page components for navigation, banners, and footers
-- Dynamic features such as visitor feedback and data-driven content
-- Structured code that helps simplify ongoing updates
+</td>
+<td width="50%" valign="top">
 
-## 🧩 Frameworks & CMS
+### ⚙️ Robust Back-End Development
+Flexible, maintainable web solutions built with server-side frameworks and database-driven functionality.
 
-We use frameworks and content management systems to help build scalable, maintainable websites that clients can update with confidence.
+- PHP application development
+- CodeIgniter and Laravel
+- Dynamic websites and web applications
+- Database integration and custom features
 
-### Frameworks
-- CodeIgniter
-- Kohana
-- PHP-based MVC development
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Content Management Systems
-- WordPress
+### 🧩 CMS & Content-Driven Websites
+Practical content management solutions that help teams manage and update their online presence.
+
 - Joomla
-- PyroCMS
+- WordPress
+- CMS-based portals and websites
+- Customised content workflows
 
-Our experience includes portal websites built with Joomla and PyroCMS, as well as WordPress websites for smaller projects. When frequent content updates are needed, a CMS can give clients more direct control over their website.
+</td>
+<td width="50%" valign="top">
 
-## 🏢 Industries We Serve
+### 🌐 Solutions Across Industries
+Experience supporting a range of business needs and domains.
 
-| e-Commerce | e-Learning | Analytics |
-|:---:|:---:|:---:|
-| Finance | Entertainment | And more |
+- e-Commerce
+- e-Learning
+- Analytics
+- Finance
+- Entertainment
+- Custom business portals
 
----
+</td>
+</tr>
+</table>
+
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### Let’s build something meaningful for the web.
+### Front End
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-**Dnyandeep Infotech** · [Visit our website](https://dnyandeep.com) · [Explore our repositories](https://github.com/dnyandeepinfo)
+### Back End
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+### CMS
+<img alt="Joomla" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white">
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+
+</div>
+
+## ✨ Our Approach
+
+- **Purpose-led design:** interfaces shaped around user and business needs.
+- **Maintainable development:** organised code and reusable components.
+- **Responsive by default:** experiences designed for desktop, tablet, and mobile.
+- **Flexible technology choices:** tools selected to suit each project's requirements.
+- **Long-term thinking:** solutions built with updates, growth, and support in mind.
+
+## 🤝 Let’s Build What’s Next
+
+Have an idea for a website, portal, or web application? Let’s turn it into a practical digital solution.
+
+<div align="center">
+
+**Dnyandeep Infotech Pvt. Ltd.**
+
+[🌐 Website](https://dnyandeep.com) · [💻 GitHub](https://github.com/dnyandeepinfo)
 
 </div>
